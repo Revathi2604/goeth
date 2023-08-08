@@ -1,0 +1,7 @@
+node1 =  0x56fC62A67490f5946Cb50a0E6403eA9fB9D1728E
+password = 12345
+
+node2 = 0xfE3cb032461fbc9CCB6f312Fe843cc6a5122B6fC
+password = 12345
+
+enode://602ed5a57bb8cf23b7e547a8b5e8b73ced80bb9b089dc33da6fdda07d4b3a850d985e9bb089f81fcc6ddf538a7a814eda558db3be89ef8fd949e6cf1c64d8a3c@127.0.0.1:0?discport=30301
